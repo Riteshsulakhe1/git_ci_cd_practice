@@ -12,7 +12,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.17.3",
     "razzle": "3.1.5",
     "react": "16.13.1",
     "react-dom": "16.13.1",
